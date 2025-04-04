@@ -12,6 +12,6 @@
     "vite": "^6.2.0"
   },
   "dependencies": {
-    "@amadeus-it-group/microfrontends": "^0.0.4"
+    "@amadeus-it-group/microfrontends": "^0.0.5"
   }
 }
